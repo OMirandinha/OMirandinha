@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMirandinha)](https://github.com/anuraghazra/github-readme-stats)
 
-##Languages & Technologies
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMirandinha)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages & Technologies
 
 <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading = "lazy" img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -37,6 +39,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
             <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>          
             <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
             <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+
+## IDEs
+
+<img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" /> 
+            <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" wifth="40" height="40"/> 
+            <img loasing="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/>
+
+
+
+          
           
           
           
