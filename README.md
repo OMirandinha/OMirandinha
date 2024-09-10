@@ -7,10 +7,9 @@ My Github is mostly used as a portfolio of sorts but feel free to contact me via
 
 Here are some ideas to get you started:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMirandinha)](https://github.com/anuraghazra/github-readme-stats)
 
-##Languages
-<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+
+
           
 
 
@@ -24,3 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMirandinha)](https://github.com/anuraghazra/github-readme-stats)
+
+##Languages
+<img loading="lazy" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
