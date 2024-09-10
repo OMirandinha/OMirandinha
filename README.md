@@ -51,9 +51,9 @@ DISCORD: edgy_catboy
 
 
 
-<p align="center">
+
 ![e56231fb006e451349b7614f5b3315e6](https://github.com/user-attachments/assets/16fec707-a765-4149-9a37-417223ec315f)
-</p>
+
 
 
 
