@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMirandinha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMirandinha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMirandinha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMirandinha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages & Technologies
 
@@ -53,9 +51,9 @@ DISCORD: edgy_catboy
 
 
 
-
+<p align="center">
 ![e56231fb006e451349b7614f5b3315e6](https://github.com/user-attachments/assets/16fec707-a765-4149-9a37-417223ec315f)
-
+</p>
 
 
 
