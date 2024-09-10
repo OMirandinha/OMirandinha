@@ -1,5 +1,5 @@
-## Welcome, Traveller!
-# I'm Miranda Marques and I'm a brazilian software engineer in the making! I'm a fast learner currently searching for my first opportunity in the job market and always willing to deepen my knowledges on just about everything!
+# Welcome, Traveller!
+I'm Miranda Marques and I'm a brazilian software engineer in the making! I'm a fast learner currently searching for my first opportunity in the job market and always willing to deepen my knowledges on just about everything!
 My Github is mostly used as a portfolio of sorts but feel free to contact me via the info at the end of this ReadMe ;) 
 
 <!--
