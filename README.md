@@ -1,5 +1,5 @@
 # Welcome, Traveller!
-I'm Miranda Marques, a brazilian software engineer in the making! I'm a fast learner currently searching for my first opportunity in the job market and always willing to deepen my knowledges on just about everything!
+I'm Miranda Marques, a brazilian software engineer in the making! I'm a fast learner currently searching for my first opportunity in the job market and always willing to deepen my knowledges on just about everything! <br/>
 My Github is mostly used as a portfolio of sorts but feel free to contact me via the info at the end of this ReadMe so we can share a nice cup of coffee together! ;) 
 
 <!--
@@ -52,6 +52,9 @@ DISCORD: edgy_catboy
 
 
 
+
+
+![e56231fb006e451349b7614f5b3315e6](https://github.com/user-attachments/assets/16fec707-a765-4149-9a37-417223ec315f)
 
 
 
