@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <a href="https://www.linkedin.com/in/vitor-hugo-miranda-b82b13276/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-DISCORD: edgy_catboy
+DISCORD: le_epic_cheadler
 
 
 
